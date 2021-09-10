@@ -1,12 +1,10 @@
 # Ubuntu-20.04-Kernel-Setup-Instructions
 A basic guide on how to install and setup kernel to complete a syscall
 
-
-## __**Project 1 Guide**__
 *(Note: This guide is not fuly complete. If you see anything that needs to be emphaisized or changed add a comment )*
 Credits: @DanTheMan#1494 , @Aturasu#8710 
 
-### **~Setup for VM**
+## **~Setup for VM**
 -Install Ubuntu 20.04 from https://ubuntu.com/download/desktop?version=20.04&architecture=amd64
 
 -Open virtual box and Select Linux ubuntu 64
@@ -30,7 +28,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Pick ubuntu 20.04
 
 
-### **~After you Open Ubuntu**
+## **~After you Open Ubuntu**
 -Click install Ubuntu
 
 -Click next on all default options including erase disk option
@@ -48,7 +46,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Right click and click "extract here"(give it a min or 2 to fully extract all files)
 
 
-### **~Optional Steps to Fix Screen**
+## **~Reccomended Optional Steps to Fix Screen**
 *These steps are to fix your screen size resolution and to make things easier*
 
 -Click devices 
@@ -75,7 +73,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Select "View" -> "Virtual Screen1" -> Choose whatever resolution you want
 
 
-### **~Terminal Stage**
+## **~Terminal Stage**
 -Go to apps click or search for settings->power->set power saving to __never__ (this will keep VM from sleeping)
 
 -Right click in the extracted Kernel file and select "open in Terminal"[**see image01**]
