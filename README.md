@@ -2,11 +2,11 @@
 A basic guide on how to install and setup kernel to complete a syscall
 
 
-__**Project 1 Guide**__
+##__**Project 1 Guide**__
 *(Note: This guide is not fuly complete. If you see anything that needs to be emphaisized or changed add a comment )*
 Credits: @DanTheMan#1494 , @Aturasu#8710 
 
-**~Setup for VM~**
+**~Setup for VM**
 -Install Ubuntu 20.04 from https://ubuntu.com/download/desktop?version=20.04&architecture=amd64
 -Open virtual box and Select Linux ubuntu 64
 -Video Memory set to 3010
@@ -19,7 +19,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Power Up VM
 -Pick ubuntu 20.04
 
-**~After you Open Ubuntu~**
+**~After you Open Ubuntu**
 -Click install Ubuntu
 -Click next on all default options including erase disk option
 -After Instalation finishes make note of your root password(dont forget it)
@@ -29,7 +29,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Drag the zipped file into Documents from recent
 -Right click and click "extract here"(give it a min or 2 to fully extract all files)
 
-**~Optional Steps to Fix Screen~**
+**~Optional Steps to Fix Screen**
 *These steps are to fix your screen size resolution and to make things easier*
 -Click devices 
 -Select "Insert Guest Additions CD"
@@ -37,7 +37,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Type in your root password when Prompted
 -Click Enter
 **If that doesn't work use this in your terminal**
- ```sudo apt-get install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11```
+>sudo apt-get install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11
 
 -Click "Devices" then "Shared Clipboard"
 -Select "Bidirectional"
@@ -45,15 +45,27 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Power on VM to see changes
 -Select "View" -> "Virtual Screen1" -> Choose whatever resolution you want
 
-**~Terminal Stage~**
+**~Terminal Stage**
 -Go to apps click or search for settings->power->set power saving to __never__ (this will keep VM from sleeping)
 -Right click in the extracted Kernel file and select "open in Terminal"[**see image01**]
-Run ```cp -v /boot/config-$(uname -r) .config```
-Run ```sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev```
-Run ```scripts/config --disable SYSTEM_TRUSTED_KEYS```
+Run >cp -v /boot/config-$(uname -r) .config
+Run >sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev
+Run >scripts/config --disable SYSTEM_TRUSTED_KEYS
 **===MAKE SURE KEYS ARE REVOKED:===** 
-go into the .config file using, ```sudo vi .config``` Type this to activate search ```ctrl+w``` and then search for ```SYSTEM_REVOCATION_KEYS``` Set ="debian/canonical-revoked-certs.pem" to this =""
-Then do ```ctrl+s```to save file. Then ```ctrl+x```to leave file
+go into the .config file using, >sudo vi .config 
+Type this to activate search 
+>ctrl+w 
+and then search for 
+>SYSTEM_REVOCATION_KEYS 
+Set ="debian/canonical-revoked-certs.pem" to this =""
+
+Then do 
+>ctrl+s
+to save file.
+Then do
+>ctrl+x
+to leave file editor.
+
 **===============================**
 
 Run ->If you get an error stretch terminal screen a then rerun command ```make menuconfig```
