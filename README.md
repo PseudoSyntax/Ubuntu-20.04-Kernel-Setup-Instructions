@@ -163,7 +163,8 @@ Run
 >reboot
 
 
-## **Summary**<img width="72" alt="Chicken1" src="https://user-images.githubusercontent.com/43308680/132917546-e46cdfeb-0f53-4868-af4c-9c3a0742a332.PNG">
+## **Summary**
 
 Hopefully this helped you set up the VM and kernel properly. More steps regarding syscall will come soon after images are added for this guide.
 
+<img width="72" alt="Chicken1" src="https://user-images.githubusercontent.com/43308680/132917546-e46cdfeb-0f53-4868-af4c-9c3a0742a332.PNG">
