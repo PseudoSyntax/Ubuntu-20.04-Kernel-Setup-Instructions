@@ -1,5 +1,5 @@
-# Ubuntu-20.04-Kernel-Setup-Instructions
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PseudoSyntax)
+# Ubuntu-20.04-Kernel-Setup-Instructions 
 A basic guide on how to install and setup kernel to complete a syscall
 
 *(Note: This guide is not fuly complete. If you see anything that needs to be emphaisized or changed add a comment )*
