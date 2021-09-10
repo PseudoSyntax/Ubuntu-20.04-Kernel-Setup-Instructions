@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=PseudoSyntax)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 # Ubuntu-20.04-Kernel-Setup-Instructions 
 A basic guide on how to install and setup kernel to complete a syscall
 
