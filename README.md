@@ -2,7 +2,7 @@
 A basic guide on how to install and setup kernel to complete a syscall
 
 
-##__**Project 1 Guide**__
+## __**Project 1 Guide**__
 *(Note: This guide is not fuly complete. If you see anything that needs to be emphaisized or changed add a comment )*
 Credits: @DanTheMan#1494 , @Aturasu#8710 
 
@@ -68,7 +68,8 @@ to leave file editor.
 
 **===============================**
 
-Run ->If you get an error stretch terminal screen a then rerun command ```make menuconfig```
+Run ->If you get an error stretch terminal screen a then rerun command 
+>make menuconfig
    ->Click enter on general
    ->set local version to your first and last name(no spaces) EX: JohnDoe.config
    ->Click exit(Use Tab button on keyboard)
@@ -77,14 +78,24 @@ Run ->If you get an error stretch terminal screen a then rerun command ```make m
    ->save as .config then exit the GUI
 
 
-Run ```make bzImage -j 4```
-Run ```make modules```
-[optional]Run```sudo apt install binutils```
-Run ```sudo make -j 4```
-Run```sudo make modules_install -j 4```
-Run```sudo make install -j 4```  [sudo make install]
-Run```sudo update-grub``` 
-Run -> change timeout to -1```sudo nano /etc/default/grub file```
-Run```sudo update-grub```
-Run```reboot```
+Run 
+>make bzImage -j 4
+Run 
+>make modules -j 4
+[optional]Run
+>sudo apt install binutils
+Run 
+>sudo make -j 4
+Run
+>sudo make modules_install -j 4
+Run
+>sudo make install -j 4 
+Run
+>sudo update-grub
+Run -> change timeout to -1
+>sudo nano /etc/default/grub file
+Run
+>sudo update-grub
+Run
+>reboot
 
