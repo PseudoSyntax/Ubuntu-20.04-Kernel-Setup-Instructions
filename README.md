@@ -59,8 +59,10 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 
 -Click Enter
 
-**If that doesn't work use this in your terminal**
+**If nothing pops up to run use this in your terminal**
 >sudo apt-get install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11
+
+
 
 -Click "Devices" then "Shared Clipboard"
 
