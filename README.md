@@ -172,9 +172,13 @@ Run
 
 >nano -w nameOfFile.c
 
+-Type some code for the C file and be sure to add at the top of it
+```
+#include <linux/syscalls.h>
+#include <linux/printk.h>
+```
 
-
-In the kernel folder directory edit the Makefile
+-In the kernel folder directory edit the Makefile
 
 >nano Makefile
 
@@ -184,6 +188,20 @@ Add nameOfFile.o to the end of this line in the file
 Save the file
 
 >ctrl+s 
+
+-Go to the linux-5.14.2/arch/x86/entry/syscalls directory path and edit the files syscall_32.tbl and syscalls_64.tbl
+
+   In the 32x file go to the bottom and add the proper formatting like so
+   ![image](https://user-images.githubusercontent.com/43308680/132942162-8b3ca317-446f-4997-b41b-b23e9e2fcc7c.png)
+
+   In the 64x file go to the bottom and add the proper formatting like so
+   ![image](https://user-images.githubusercontent.com/43308680/132942220-ff2c7418-15f4-4191-852f-0ca123d9bf57.png)
+
+-Now navigate back to the base kernel directory linux-5.14.2[or whatever version you have] and run
+>sudo make -j 4[# of jobs]
+
+-When that finishes run
+>sudo make install -j 4[# of jobs]
 
 ## **Summary**
 
