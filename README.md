@@ -1,6 +1,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/3PseudoSyntax/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
 
 &nbsp;
 &nbsp;
@@ -222,7 +222,11 @@ Run
 Run
 >reboot
 
+-When it finishes booting go to "advanced Ubuntu Options" and select kernel with your name to boot up
+
 ## **Making a Syscall Successfully**
+-Make sure your inside your booted kernel
+
 -Start out by going into the kernel folder directory 
 
 ![image](https://user-images.githubusercontent.com/43308680/132941635-505f4a44-066d-4323-ab8f-671d8a47dfbe.png)
@@ -287,7 +291,7 @@ Save the file
 >gcc secondFile.c
 
 -Run in the terminal your output file
->./secondFileOutput.out
+>./a.out
 
 -Run this command to see syscall logs as well as your syscall
 >sudo dmesg
