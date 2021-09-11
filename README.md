@@ -34,6 +34,21 @@ A basic guide on how to install and setup kernel to complete a syscall
 
 Credits: @DanTheMan#1494 , @Aturasu#8710 
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#~Setup for VM">Setup for VM</a>
+    </li>
+    <li><a href="#~After you Install Ubuntu">After you Install Ubuntu</a></li>
+    <li><a href="#~Reccomended Optional Steps to Fix Screen">Reccomended Optional Steps to Fix Screen</a></li>
+    <li><a href="#~Terminal Stage">Terminal Stage</a></li>
+    <li><a href="#~Making a Syscall Successfully">Making a Syscall Successfully</a></li>
+    <li><a href="#Summary">Summary</a></li>
+  </ol>
+</details>
+
 ## **~Setup for VM**
 -Install Ubuntu 20.04 from https://ubuntu.com/download/desktop?version=20.04&architecture=amd64
 
@@ -58,7 +73,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Pick ubuntu 20.04
 
 
-## **~After you Open Ubuntu**
+## **~After you Install Ubuntu**
 -Click install Ubuntu
 
 -Click next on all default options including erase disk option
@@ -199,7 +214,7 @@ Run
 Run
 >reboot
 
-## **Making a Syscall Successfully[in progress]**
+## **~Making a Syscall Successfully**
 -Start out by going into the kernel folder directory 
 
 ![image](https://user-images.githubusercontent.com/43308680/132941635-505f4a44-066d-4323-ab8f-671d8a47dfbe.png)
