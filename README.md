@@ -275,7 +275,7 @@ Save the file
 -When Ubuntu loads back up select a file outside of your kernel folder (ie downloads or desktop for example) and write to a new C file
 >nano -w secondFile.c
 
--Add some code to the file using this format at the top. For the arguments add the iteger of the line added in the 64x.tbl file
+-Add some code to the file using this format at the top. For the arguments add the integer of the line added in the 64x.tbl file
 ```
 #include <unistd.h>
 #include <linux/kernel.h>
