@@ -41,10 +41,10 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
     <li>
       <a href="#Setup-for-VM">Setup for VM</a>
     </li>
-    <li><a href="#After you Install Ubuntu">After you Install Ubuntu</a></li>
-    <li><a href="#Reccomended Optional Steps to Fix Screen">Reccomended Optional Steps to Fix Screen</a></li>
-    <li><a href="#Terminal Stage">Terminal Stage</a></li>
-    <li><a href="#Making a Syscall Successfully">Making a Syscall Successfully</a></li>
+    <li><a href="#After-you-Install-Ubuntu">After you Install Ubuntu</a></li>
+    <li><a href="#Reccomended-Optional-Steps-to-Fix-Screen">Reccomended Optional Steps to Fix Screen</a></li>
+    <li><a href="#Terminal-Stage">Terminal Stage</a></li>
+    <li><a href="#Making-a-Syscall-Successfully">Making a Syscall Successfully</a></li>
     <li><a href="#Summary">Summary</a></li>
   </ol>
 </details>
