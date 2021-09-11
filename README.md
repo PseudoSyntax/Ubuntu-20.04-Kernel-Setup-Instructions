@@ -164,6 +164,26 @@ Run
 Run
 >reboot
 
+## **Making a Syscall Successfully**
+-Start out by going into the kernel folder directory 
+![image](https://user-images.githubusercontent.com/43308680/132941635-505f4a44-066d-4323-ab8f-671d8a47dfbe.png)
+
+-Write to a new C file using the following
+
+>nano -w nameOfFile.c
+
+
+
+In the kernel folder directory edit the Makefile
+
+>nano Makefile
+
+Add nameOfFile.o to the end of this line in the file
+![image](https://user-images.githubusercontent.com/43308680/132941795-3fc0b588-8c62-4feb-a9c4-523727f60a3f.png)
+
+Save the file
+
+>ctrl+s 
 
 ## **Summary**
 
