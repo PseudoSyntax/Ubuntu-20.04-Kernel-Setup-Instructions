@@ -20,11 +20,11 @@
     <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions">View Demo</a>
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions">Home</a>
     ·
-    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/issues">Report Bug</a>
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/issues">Report an Issue</a>
     ·
-    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/issues">Request Feature</a>
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/issues">Leave a Comment</a>
   </p>
 </p>
 
