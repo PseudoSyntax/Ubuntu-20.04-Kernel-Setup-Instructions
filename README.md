@@ -166,6 +166,7 @@ Run
 
 ## **Making a Syscall Successfully[in progress]**
 -Start out by going into the kernel folder directory 
+
 ![image](https://user-images.githubusercontent.com/43308680/132941635-505f4a44-066d-4323-ab8f-671d8a47dfbe.png)
 
 -Write to a new C file using the following
@@ -197,15 +198,50 @@ Save the file
    In the 64x file go to the bottom and add the proper formatting like so
    ![image](https://user-images.githubusercontent.com/43308680/132942220-ff2c7418-15f4-4191-852f-0ca123d9bf57.png)
 
+-Navigate back to kernel directory then run
+>sudo make kernel/mycall.o
+
 -Now navigate back to the base kernel directory linux-5.14.2[or whatever version you have] and run
 >sudo make -j 4[# of jobs]
 
 -When that finishes run
 >sudo make install -j 4[# of jobs]
 
+-When that finishes run
+>reboot
+
+-When Ubuntu loads back up select a file outside of your kernel folder (ie downloads or desktop for example) and write to a new C file
+>nano -w secondFile.c
+
+-Add some code to the file using this format at the top. For the arguments add the iteger of the line added in the 64x.tbl file
+```
+#include <unistd.h>
+#include <linux/kernel.h>
+#include <sys/syscall.h>
+
+```
+
+-Save and exit the file with 
+>ctrl+s
+>ctrl+x
+
+-Run in the terminal 
+>gcc secondFile.c
+
+-Run in the terminal
+>./secondfFileOutput.out
+
+-Run this command to see syscall logs as well as your syscall
+>sudo dmesg
+
+
+**Your Done Congrats! Easy wasn't it?**
+
+
 ## **Summary**
 
-Hopefully this helped you set up the VM and kernel properly. More steps regarding syscall will come soon after images are added for this guide. 
+Hopefully this helped you set up the VM and kernel properly. If you do find issues please let me know via commets or commits. This guide 
+was intended for new Linux users who want to know how to build a kernel on Ubuntu as well as a reference for me if my VM ever gets corrupted.
 
 
 
