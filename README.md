@@ -39,7 +39,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#~Setup for VM">Setup for VM</a>
+      <a href="#Setup-for-VM">Setup for VM</a>
     </li>
     <li><a href="#After you Install Ubuntu">After you Install Ubuntu</a></li>
     <li><a href="#Reccomended Optional Steps to Fix Screen">Reccomended Optional Steps to Fix Screen</a></li>
