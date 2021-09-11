@@ -54,6 +54,9 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 
 -Select "Insert Guest Additions CD"
 
+![image](https://user-images.githubusercontent.com/43308680/132942749-63c0f26d-b286-46fd-a407-7634680aeac4.png)
+
+
 -Click "Run"
 
 -Type in your root password when Prompted
@@ -63,7 +66,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 **If nothing pops up to run use this in your terminal**
 >sudo apt-get install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11
 
-
+\n
 
 -Click "Devices" then "Shared Clipboard"
 
