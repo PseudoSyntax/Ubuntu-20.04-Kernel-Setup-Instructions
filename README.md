@@ -283,11 +283,11 @@ Save the file
 >ctrl+s
 >ctrl+x
 
--Run in the terminal 
+-Run in the terminal your second C file
 >gcc secondFile.c
 
--Run in the terminal
->./secondfFileOutput.out
+-Run in the terminal your output file
+>./secondFileOutput.out
 
 -Run this command to see syscall logs as well as your syscall
 >sudo dmesg
