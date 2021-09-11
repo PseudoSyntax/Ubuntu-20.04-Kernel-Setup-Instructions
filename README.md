@@ -309,7 +309,7 @@ Save the file
 
 ## **Summary**
 
-Hopefully this helped you set up the VM and kernel properly. If you do find issues please let me know via commets or commits. This guide 
+Hopefully this helped you set up the VM and kernel properly. If you do find issues please let me know via comments or commits. This guide 
 was intended for new Linux users who want to know how to build a kernel on Ubuntu as well as a reference for me if my VM ever gets corrupted.
 
 
