@@ -1,6 +1,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/1PseudoSyntax/Python)
 
 &nbsp;
 &nbsp;
