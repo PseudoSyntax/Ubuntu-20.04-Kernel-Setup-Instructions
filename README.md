@@ -89,7 +89,9 @@ Run >scripts/config --disable SYSTEM_TRUSTED_KEYS
 
 **===MAKE SURE KEYS ARE REVOKED:===** 
 
-go into the .config file using, >sudo vi .config 
+go into the .config file using, 
+
+>sudo nano .config 
 
 Type this to activate search 
 
