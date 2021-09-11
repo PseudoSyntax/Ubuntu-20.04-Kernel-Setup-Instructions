@@ -1,19 +1,37 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TPseudoSyntax/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/nPseudoSyntax/Python)
 
 
 
 
-# Ubuntu-20.04-Kernel-Setup-Instructions 
-A basic guide on how to install and setup kernel to complete a syscall
 
 <!-- PROJECT LOGO -->
-<br />
+
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
      <img width="72" alt="Chicken1" width="80" height="80" src="https://user-images.githubusercontent.com/43308680/132917546-e46cdfeb-0f53-4868-af4c-9c3a0742a332.PNG">
   </a>
+  
+  
+  <h3 align="center">Best-README-Template</h3>
 
-*(Note: This guide is not fuly complete. If you see anything that needs to be emphaisized or changed add a comment )*
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions">View Demo</a>
+    ·
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/issues">Request Feature</a>
+  </p>
+</p>
+
+# Ubuntu-20.04-Kernel-Setup-Instructions 
+A basic guide on how to install and setup kernel to complete a syscall
+*(Note: This guide is fully complete. If you see anything that needs to be emphaisized or changed add a comment )*
+
 Credits: @DanTheMan#1494 , @Aturasu#8710 
 
 ## **~Setup for VM**
