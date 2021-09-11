@@ -1,4 +1,4 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/nPseudoSyntax/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
 
 
 
@@ -12,10 +12,10 @@
   </a>
   
   
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">MrChickenCombos Guide to Kernel Creation</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An great guide towards making your own personal Kernel on Linux!
     <br />
     <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions"><strong>Explore the docs »</strong></a>
     <br />
