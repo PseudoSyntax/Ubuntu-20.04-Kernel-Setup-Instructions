@@ -93,7 +93,7 @@ Run >sudo apt-get install build-essential libncurses-dev bison flex libssl-dev l
 
 Run >scripts/config --disable SYSTEM_TRUSTED_KEYS
 
-### **===MAKE SURE KEYS ARE REVOKED:===** 
+### **~MAKE SURE KEYS ARE REVOKED:==================================** 
 
 go into the .config file using, 
 
@@ -119,7 +119,7 @@ to save file. Then do the following below to leave file editor.
 
 
 
-**===============================**
+**===================================================================**
 
 Run ->If you get an error stretch terminal screen a then rerun command 
 
