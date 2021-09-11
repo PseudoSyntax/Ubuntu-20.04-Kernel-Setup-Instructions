@@ -25,7 +25,7 @@
   <p align="center">
     An great guide towards making your own personal Kernel on Linux!
     <br />
-    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions">Home</a>
@@ -40,7 +40,7 @@
 A basic guide on how to install and setup kernel to complete a syscall
 *(Note: This guide is fully complete. If you see anything that needs to be emphaisized or changed add a comment )*
 
-Credits: @DanTheMan#1494 , @Aturasu#8710 
+Contributors: @DanTheMan#1494 , @Aturasu#8710 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
