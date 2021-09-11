@@ -139,11 +139,14 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 ![image](https://user-images.githubusercontent.com/43308680/132942808-32303107-f4e7-4d57-be16-b84e4ebc111c.png)
 
 
-Run >cp -v /boot/config-$(uname -r) .config
+Run 
+>cp -v /boot/config-$(uname -r) .config
 
-Run >sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev
+Run 
+>sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev
 
-Run >scripts/config --disable SYSTEM_TRUSTED_KEYS
+Run 
+>scripts/config --disable SYSTEM_TRUSTED_KEYS
 
 ### **~MAKE SURE KEYS ARE REVOKED:==================================** 
 
