@@ -50,7 +50,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
       <a href="#Setup-for-VM">Setup for VM</a>
     </li>
     <li><a href="#After-you-Install-Ubuntu">After you Install Ubuntu</a></li>
-    <li><a href="#Reccomended-Optional-Steps-to-Fix-Screen">Reccomended Optional Steps to Fix Screen</a></li>
+    <li><a href="#Recommend-Optional-Steps-to-Fix-Screen">Recommend Optional Steps to Fix Screen</a></li>
     <li><a href="#Terminal-Stage">Terminal Stage</a></li>
     <li><a href="#Making-a-Syscall-Successfully">Making a Syscall Successfully</a></li>
     <li><a href="#Summary">Summary</a></li>
@@ -99,7 +99,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Right click and click "extract here"(give it a min or 2 to fully extract all files)
 
 
-## **Reccomended Optional Steps to Fix Screen**
+## **Recommend Optional Steps to Fix Screen**
 *These steps are to fix your screen size resolution and to make things easier*
 
 -Click devices 
