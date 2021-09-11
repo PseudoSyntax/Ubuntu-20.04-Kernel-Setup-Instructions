@@ -1,5 +1,7 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
 
+[![Stargazers][stars-shield]][https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions]
+
 
 
 
