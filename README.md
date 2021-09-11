@@ -49,7 +49,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
   </ol>
 </details>
 
-## **~Setup for VM**
+## **Setup for VM**
 -Install Ubuntu 20.04 from https://ubuntu.com/download/desktop?version=20.04&architecture=amd64
 
 -Open virtual box and Select Linux ubuntu 64
@@ -73,7 +73,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Pick ubuntu 20.04
 
 
-## **~After you Install Ubuntu**
+## **After you Install Ubuntu**
 -Click install Ubuntu
 
 -Click next on all default options including erase disk option
@@ -91,7 +91,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Right click and click "extract here"(give it a min or 2 to fully extract all files)
 
 
-## **~Reccomended Optional Steps to Fix Screen**
+## **Reccomended Optional Steps to Fix Screen**
 *These steps are to fix your screen size resolution and to make things easier*
 
 -Click devices 
@@ -123,7 +123,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 -Select "View" -> "Virtual Screen1" -> Choose whatever resolution you want
 
 
-## **~Terminal Stage**
+## **Terminal Stage**
 -Go to apps click or search for settings->power->set power saving to __never__ (this will keep VM from sleeping)
 
 -Right click in the extracted Kernel file and select "open in Terminal"
@@ -214,7 +214,7 @@ Run
 Run
 >reboot
 
-## **~Making a Syscall Successfully**
+## **Making a Syscall Successfully**
 -Start out by going into the kernel folder directory 
 
 ![image](https://user-images.githubusercontent.com/43308680/132941635-505f4a44-066d-4323-ab8f-671d8a47dfbe.png)
