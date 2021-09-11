@@ -1,8 +1,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
+
 &nbsp;
 &nbsp;
+
 [stars-shield]: https://img.shields.io/github/stars/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions.svg?style=flat-square
 [stars-url]: https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/stargazers
 <!--style=flat-square   and  style=for-the-badge-->
