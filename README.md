@@ -1,4 +1,14 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TPseudoSyntax/Python)
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+     <img width="72" alt="Chicken1" src="https://user-images.githubusercontent.com/43308680/132917546-e46cdfeb-0f53-4868-af4c-9c3a0742a332.PNG">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
 # Ubuntu-20.04-Kernel-Setup-Instructions 
 A basic guide on how to install and setup kernel to complete a syscall
 
@@ -251,7 +261,7 @@ was intended for new Linux users who want to know how to build a kernel on Ubunt
 
 
 
-<img width="72" alt="Chicken1" src="https://user-images.githubusercontent.com/43308680/132917546-e46cdfeb-0f53-4868-af4c-9c3a0742a332.PNG"> 
+ 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
