@@ -1,6 +1,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/3PseudoSyntax/Python)
 
 &nbsp;
 &nbsp;
@@ -260,10 +260,10 @@ Save the file
 >sudo make kernel/mycall.o
 
 -Now navigate back to the base kernel directory linux-5.14.2[or whatever version you have] and run
->sudo make -j 4[# of jobs]
+>sudo make -j 4
 
 -When that finishes run
->sudo make install -j 4[# of jobs]
+>sudo make install -j 4
 
 -When that finishes run
 >reboot
