@@ -1,9 +1,12 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
 [![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
 
 [stars-shield]: https://img.shields.io/github/stars/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions.svg?style=for-the-badge
 [stars-url]: https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/stargazers
 
+[issues-shield]: https://img.shields.io/github/issues/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions.svg?style=for-the-badge
+[issues-url]: https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/issues
 
 
 <!-- PROJECT LOGO -->
