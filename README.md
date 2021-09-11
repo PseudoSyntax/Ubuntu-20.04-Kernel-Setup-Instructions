@@ -1,8 +1,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/PseudoSyntax/Python)
 
-[stars-shield]: https://img.shields.io/github/stars/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions.svg?style=flat-square
 [stars-url]: https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/stargazers
 
 [issues-shield]: https://img.shields.io/github/issues/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions.svg?style=for-the-badge
