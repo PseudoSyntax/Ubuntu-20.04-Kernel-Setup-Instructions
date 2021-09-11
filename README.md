@@ -227,6 +227,10 @@ Run
 
 -When it finishes booting go to "advanced Ubuntu Options" and select kernel with your name to boot up
 
+-You can run the command below to ensure you booted the right kernel. It should have your name or whatever you named the .config file
+
+>uname -r
+
 ## **Making a Syscall Successfully**
 -Make sure your inside your booted kernel
 
