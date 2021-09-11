@@ -12,7 +12,7 @@
   </a>
   
   
-  <h3 align="center">MrChickenCombos Guide to Kernel Creation</h3>
+  <h3 align="center">Mr.ChickenCombo's Guide to Kernel Setup</h3>
 
   <p align="center">
     An great guide towards making your own personal Kernel on Linux!
