@@ -1,8 +1,5 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TPseudoSyntax/Python)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 
 
 
