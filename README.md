@@ -10,8 +10,7 @@ A basic guide on how to install and setup kernel to complete a syscall
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-     <img width="72" alt="Chicken1" src="https://user-images.githubusercontent.com/43308680/132917546-e46cdfeb-0f53-4868-af4c-9c3a0742a332.PNG">
-    <img src="" alt="" width="80" height="80">
+     <img width="72" alt="Chicken1" width="80" height="80" src="https://user-images.githubusercontent.com/43308680/132917546-e46cdfeb-0f53-4868-af4c-9c3a0742a332.PNG">
   </a>
 
 *(Note: This guide is not fuly complete. If you see anything that needs to be emphaisized or changed add a comment )*
