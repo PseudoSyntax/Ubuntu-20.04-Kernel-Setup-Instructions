@@ -66,7 +66,7 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 **If nothing pops up to run use this in your terminal**
 >sudo apt-get install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11
 
-\n
+
 
 -Click "Devices" then "Shared Clipboard"
 
@@ -82,7 +82,10 @@ Credits: @DanTheMan#1494 , @Aturasu#8710
 ## **~Terminal Stage**
 -Go to apps click or search for settings->power->set power saving to __never__ (this will keep VM from sleeping)
 
--Right click in the extracted Kernel file and select "open in Terminal"[**see image01**]
+-Right click in the extracted Kernel file and select "open in Terminal"
+
+![image](https://user-images.githubusercontent.com/43308680/132942808-32303107-f4e7-4d57-be16-b84e4ebc111c.png)
+
 
 Run >cp -v /boot/config-$(uname -r) .config
 
@@ -90,7 +93,7 @@ Run >sudo apt-get install build-essential libncurses-dev bison flex libssl-dev l
 
 Run >scripts/config --disable SYSTEM_TRUSTED_KEYS
 
-**===MAKE SURE KEYS ARE REVOKED:===** 
+### **===MAKE SURE KEYS ARE REVOKED:===** 
 
 go into the .config file using, 
 
