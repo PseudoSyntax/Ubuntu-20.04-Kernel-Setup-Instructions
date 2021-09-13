@@ -261,6 +261,8 @@ Save the file
 
 -Go to the linux-5.14.2/arch/x86/entry/syscalls directory path and edit the files syscall_32.tbl and syscalls_64.tbl
 
+**NOTE: use TAB since these files don't support spaces**
+
    In the 32x file go to the bottom and add the proper formatting like so
    ![image](https://user-images.githubusercontent.com/43308680/132942162-8b3ca317-446f-4997-b41b-b23e9e2fcc7c.png)
 
