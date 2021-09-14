@@ -308,6 +308,9 @@ Save the file
 
 **Your Done Congrats! Easy wasn't it?**
 
+**No message Popped up!**
+If it didnt work try redoing sudo make, there is a possibility that your computer may have sleep and inadvertenly stop the download. If errors appeared
+in the log or at any point check here <a href="https://github.com/PseudoSyntax/Ubuntu-20.04-Kernel-Setup-Instructions/wiki">Ubuntu Error Wiki</a>
 
 ## **Summary**
 
