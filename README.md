@@ -1,6 +1,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/1PseudoSyntax/Python)
+![](https://komarev.com/ghpvc/?username=PseudoSyntax&label=Views&style=flat-square&color=blueviolet)
 
 &nbsp;
 &nbsp;
@@ -40,7 +40,7 @@
 A basic guide on how to install and setup kernel to complete a syscall
 *(Note: This guide is fully complete. If you see anything that needs to be emphaisized or changed add a comment )*
 
-Contributors: @DanTheMan#1494 , @Aturasu#8710 
+Indirect Contributors: @DanTheMan#1494 , @Aturasu#8710 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
